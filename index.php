@@ -10,14 +10,14 @@
 		<link href='http://fonts.googleapis.com/css?family=Pacifico|Cabin|Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
 
 		<!-- Le styles -->
-		<link href="./2/css/bootstrap.css" rel="stylesheet">
-		<link href="./css/pagescroller.skins.css" rel="stylesheet" />
-		<link href="/webfonts/ss-social.css" rel="stylesheet">
-		<link href="/webfonts/ss-standard.css" rel="stylesheet">
-		<link href="./2/css/style.css" rel="stylesheet">
+		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/pagescroller.skins.css" rel="stylesheet" />
+		<link href="webfonts/ss-standard.css" rel="stylesheet">
+		<link href="webfonts/ss-social-regular.css" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
 
-		<link href="./2/css/bootstrap-responsive.css" rel="stylesheet">
-		<link href="./2/css/responsive.css" rel="stylesheet">
+		<link href="css/bootstrap-responsive.css" rel="stylesheet">
+		<link href="css/responsive.css" rel="stylesheet">
 
 		<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
@@ -28,7 +28,7 @@
 		<![endif]-->
 
 		<!-- Le fav and touch icons -->
-		<link rel="shortcut icon" href="./2/ico/favicon.ico">
+		<link rel="shortcut icon" href="ico/favicon.ico">
 	</head>
 
 	<body>
@@ -139,25 +139,25 @@
 				        <div class="span12">
 					        <h1><highlight_font id="title">Some places I've done amazing things ...</highlight_font></h1>
 							<div class="row">
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/romney_ryan.png" alt="Romney-Ryan" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/newt_2012.png" alt="Newt 2012" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/acu.png" alt="Arizona Christian University" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/romney_ryan.png" alt="Romney-Ryan" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/newt_2012.png" alt="Newt 2012" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/acu.png" alt="Arizona Christian University" /></div>
 							</div>
 							<div class="row">
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/BoysGirlsClubLogo.png" alt="Boys and Girls Club of Metro Phoenix" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/bush_acu.png" alt="President Bush Fundraiser for ACU" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/smaller_projects.png" alt="Various other projects" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/BoysGirlsClubLogo.png" alt="Boys and Girls Club of Metro Phoenix" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/bush_acu.png" alt="President Bush Fundraiser for ACU" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/smaller_projects.png" alt="Various other projects" /></div>
 							</div>
 							<div class="row">
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/wes_gullett.png" alt="Wes Gullett for Phoenix Mayor" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/seesmic.png" alt="Seesmic" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/mccain_2010.png" alt="McCain 2010" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/wes_gullett.png" alt="Wes Gullett for Phoenix Mayor" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/seesmic.png" alt="Seesmic" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/mccain_2010.png" alt="McCain 2010" /></div>
 								
 							</div>
 							<div class="row">
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/sheep.png" alt="Electric Sheep Company" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/Fidelity_National_Financial.png" alt="Fidelity National Financial" /></div>
-								<div class="span4 company_logo"><img class="company_img" src="/images/logos/ups_logos.png" alt="Boys and Girls Club of Metro Phoenix" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/sheep.png" alt="Electric Sheep Company" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/Fidelity_National_Financial.png" alt="Fidelity National Financial" /></div>
+								<div class="span4 company_logo"><img class="company_img" src="images/logos/ups_logos.png" alt="Boys and Girls Club of Metro Phoenix" /></div>
 							</div>
 
 				        </div><!-- span -->
@@ -177,16 +177,15 @@
 								<li><a href="mailto:jeremy@jeremyvaught.com?subject=We Need to Talk!!&body=What are you asking, we'll double it!" target="_blank"><span class="ss-icon ss-standard">send</span> email</a></li>
 								<li><span class="ss-icon ss-standard">phone</span> <phone>623.565.9801</phone></li>
 								<li>
-									<a href="http://twitter.com/jeremyvaught" class='ss-icon  ss-twitter' target="_blank">twitter</a>
-									<a href="http://www.linkedin.com/in/jeremyvaught" class='ss-icon  ss-linkedin' target="_blank">linkedin</a>
-									<a href="http://facebook.com/jeremyvaught" class='ss-icon  ss-facebook' target="_blank">facebook</a>
-									<a href="https://plus.google.com/102054591365185003019/posts" class='ss-icon  ss-googleplus' target="_blank">googleplus</a>
-									<a href="http://web.stagram.com/n/jeremyvaught/" class='ss-icon  ss-instagram' target="_blank">instagram</a>
-									<a href="http://pinterest.com/jeremyvaught/" class='ss-icon  ss-pinterest' target="_blank">pinterest</a>
-									<a href="http://readmill.com/jeremyvaught" class='ss-icon  ss-readmill' target="_blank">readmill</a>
-									<a href="http://resume.jeremyvaught.com/dropbox" class='ss-icon  ss-dropbox' target="_blank">dropbox</a>
-									<a href="http://jeremyvaught.github.com/resume" class='ss-icon  ss-github'>github</a>
-									<a href="http://jeremyvaught.github.com" class='ss-icon  ss-octocat'>octocat</a>
+									<a href="http://twitter.com/jeremyvaught" class='ss-icon' target="_blank">twitter</a>
+									<a href="http://www.linkedin.com/in/jeremyvaught" class='ss-icon' target="_blank">linkedin</a>
+									<a href="http://facebook.com/jeremyvaught" class='ss-icon' target="_blank">facebook</a>
+									<a href="https://plus.google.com/102054591365185003019/posts" class='ss-icon' target="_blank">googleplus</a>
+									<a href="http://web.stagram.com/n/jeremyvaught/" class='ss-icon' target="_blank">instagram</a>
+									<a href="http://pinterest.com/jeremyvaught/" class='ss-icon' target="_blank">pinterest</a>
+									<!--<a href="http://readmill.com/jeremyvaught" class='ss-icon' target="_blank">readmill</a>-->
+									<a href="http://resume.jeremyvaught.com/dropbox" class='ss-icon' target="_blank">dropbox</a>
+									<a href="http://github.com/jeremyvaught" class='ss-icon' target="_blank">octocat</a>
 									
 								</li>
 							</ul>
@@ -200,28 +199,28 @@
 		<!-- Le javascript
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="./2/js/jquery.js"></script>
+		<script src="js/jquery.js"></script>
 		<?php
 		/*
-		<script src="./2/js/bootstrap-transition.js"></script>
-		<script src="./2/js/bootstrap-alert.js"></script>
-		<script src="./2/js/bootstrap-modal.js"></script>
-		<script src="./2/js/bootstrap-dropdown.js"></script>
-		<script src="./2/js/bootstrap-scrollspy.js"></script>
-		<script src="./2/js/bootstrap-tab.js"></script>
-		<script src="./2/js/bootstrap-tooltip.js"></script>
-		<script src="./2/js/bootstrap-popover.js"></script>
-		<script src="./2/js/bootstrap-button.js"></script>
-		<script src="./2/js/bootstrap-collapse.js"></script>
-		<script src="./2/js/bootstrap-carousel.js"></script>
-		<script src="./2/js/bootstrap-typeahead.js"></script>
+		<script src="js/bootstrap-transition.js"></script>
+		<script src="js/bootstrap-alert.js"></script>
+		<script src="js/bootstrap-modal.js"></script>
+		<script src="js/bootstrap-dropdown.js"></script>
+		<script src="js/bootstrap-scrollspy.js"></script>
+		<script src="js/bootstrap-tab.js"></script>
+		<script src="js/bootstrap-tooltip.js"></script>
+		<script src="js/bootstrap-popover.js"></script>
+		<script src="js/bootstrap-button.js"></script>
+		<script src="js/bootstrap-collapse.js"></script>
+		<script src="js/bootstrap-carousel.js"></script>
+		<script src="js/bootstrap-typeahead.js"></script>
 		*/
 		?>
 		
-		<script src="./js/jquery.cycle.all.js"></script>
-		<script src="./webfonts/ss-social.js"></script>
-		<script src="./webfonts/ss-standard.js"></script>
-		<script src="./js/jquery.pagescroller.js"></script>
+		<script src="js/jquery.cycle.all.js"></script>
+		<script src="webfonts/ss-social.js"></script>
+		<script src="webfonts/ss-standard.js"></script>
+		<script src="js/jquery.pagescroller.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function(){
 
