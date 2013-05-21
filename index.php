@@ -177,18 +177,16 @@
 								<li><a href="mailto:jeremy@jeremyvaught.com?subject=We Need to Talk!!&body=What are you asking, we'll double it!" target="_blank"><span class="ss-icon ss-standard">send</span> email</a></li>
 								<li><span class="ss-icon ss-standard">phone</span> <phone>623.565.9801</phone></li>
 								<li>
-									<a href="http://twitter.com/jeremyvaught" class='ss-icon ss-social' target="_blank">twitter</a>
-									<a href="http://www.linkedin.com/in/jeremyvaught" class='ss-icon ss-social' target="_blank">linkedin</a>
-									<a href="http://facebook.com/jeremyvaught" class='ss-icon ss-social' target="_blank">facebook</a>
-									<a href="https://plus.google.com/102054591365185003019/posts" class='ss-icon ss-social' target="_blank">googleplus</a>
-									<a href="http://web.stagram.com/n/jeremyvaught/" class='ss-icon ss-social' target="_blank">instagram</a>
-									<a href="http://pinterest.com/jeremyvaught/" class='ss-icon ss-social' target="_blank">pinterest</a>
-									<a href="http://readmill.com/jeremyvaught" class='ss-icon ss-social' target="_blank">readmill</a>
-									<a href="http://resume.jeremyvaught.com/dropbox" class='ss-icon ss-social' target="_blank">dropbox</a>
-									<?php /*
-									<a href="http://jeremyvaught.github.com/resume" class='ss-icon ss-social'>octocat</a>
-									<a href="http://jeremyvaught.github.com" class='ss-icon ss-social'>octocat</a>
-									*/ ?>
+									<a href="http://twitter.com/jeremyvaught" class='ss-icon ss-social ss-twitter' target="_blank">twitter</a>
+									<a href="http://www.linkedin.com/in/jeremyvaught" class='ss-icon ss-social ss-linkedin' target="_blank">linkedin</a>
+									<a href="http://facebook.com/jeremyvaught" class='ss-icon ss-social ss-facebook' target="_blank">facebook</a>
+									<a href="https://plus.google.com/102054591365185003019/posts" class='ss-icon ss-social ss-googleplus' target="_blank">googleplus</a>
+									<a href="http://web.stagram.com/n/jeremyvaught/" class='ss-icon ss-social ss-instagram' target="_blank">instagram</a>
+									<a href="http://pinterest.com/jeremyvaught/" class='ss-icon ss-social ss-pinterest' target="_blank">pinterest</a>
+									<a href="http://readmill.com/jeremyvaught" class='ss-icon ss-social ss-readmill' target="_blank">readmill</a>
+									<a href="http://resume.jeremyvaught.com/dropbox" class='ss-icon ss-social ss-dropbox' target="_blank">dropbox</a>
+									<a href="http://jeremyvaught.github.com/resume" class='ss-icon ss-social ss-github'>github</a>
+									<a href="http://jeremyvaught.github.com" class='ss-icon ss-social ss-octocat'>octocat</a>
 									
 								</li>
 							</ul>
