@@ -1,0 +1,159 @@
+/*
+ * Grabbed this basic @media query template from getskeleton.com
+ * It's more basic than bootstrap (fewer levels to step down)
+ *
+ */
+
+/* iPad, Yo. Landscape only */
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+	#arrow-controls a {
+		visibility: hidden;
+	}
+}
+
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+	.section {
+		background-image: url(./img/black-noise.png);
+		background-repeat: repeat;
+		background-position: 0 0;
+	}
+	
+	#arrow-controls a {
+		visibility: hidden;
+	}
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body {
+		background: fuchsia;
+	}
+	.section {
+		/*background: fuchsia;
+		background-image: url(./img/black-noise.png);
+		background-repeat: repeat;
+		background-position: 0 0;*/
+	}
+	
+	.company-logo {
+		width: 600px;;
+	}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+	body {
+		/*background: green;*/
+	}
+	.section {
+		/*background: green;
+		background-image: url(./img/black-noise.png);
+		background-repeat: repeat;
+		background-position: 0 0;*/
+	}
+	
+
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	body {
+		background: blue;
+	}
+	.section {
+		/*background: blue;
+		background-image: url(./img/black-noise.png);
+		background-repeat: repeat;
+		background-position: 0 0;*/
+	}
+	
+	.company-logo {
+		width: 300px;
+	}
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	body {
+		
+		/*background-color: purple;*/
+		margin: 0px;
+		padding: 0px;
+		
+	}
+	.page1 > .name {
+		position: relative;
+		top: 5px;
+		font-size: 90px;
+		font-weight: 100;
+	}
+	.page1 > .tag {
+		position: relative;
+		top: 75px;
+		font-size: 70%;
+	}
+	.page1 > .tag2 {
+		position: relative;
+		top: 100px;
+		font-size: 40%;
+	}
+	.page2 {
+		font-size: 70%;
+		width: 100%;
+	}
+	
+	.venn {
+		background-image: url(../images/venn_2.png);
+		background-repeat: no-repeat;
+		background-position: top center;
+		background-size: cover;
+		width: 300px;
+		height: 270px;
+		margin: 0 auto 0 auto;
+		text-align: center;
+		font-size: 66%;
+	}
+	.venn_inner { width: 250px; padding: 40px 0 0 30px ; margin: 0px;}
+	.venn_inner > .politics { float: left; }
+	.venn_inner > .dev { float: right; }
+	.venn_inner > .jeremy { margin-top: 60px; font-size: 80%; }
+	.venn_inner > .social { margin-top: 80px; }
+
+	.rotator_body {
+		width: 350px;
+		font-size: 60%;
+	}
+	.rotator_nav {
+		font-size: 60%;
+		width: 250px;
+	}
+
+	.section, .page1, #page1, .page2, #page2, .page3, #page3, .page4, #page4, .page5, #page5 {
+		/*background-color: purple;
+		background-image: url(./img/black-noise.png);
+		background-repeat: repeat;
+		background-position: 0 0;*/
+		min-height: 720px;
+		max-height: 720px;
+		margin: 0px;
+		padding: 10px 0 0 5px;
+		width: 400px;
+	}
+	h1 {
+		font-size: 60%;
+		font-weight: 900;
+	}
+	
+	.company-logo {
+		width: 200px;
+	}
+	
+	.page5 a, phone {
+		font-size: 50%;
+		line-height: 50%;
+		
+	}
+}

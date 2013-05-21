@@ -1,0 +1,247 @@
+body {
+	margin: 0; 
+	/*font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 48px;
+	/*line-height: 25px;*/
+}
+
+
+#wrapper{ position:relative; width:100%; }
+#main{ /*width: 960px;*/ margin: 0 auto; /*background: #fff; border-left: 1px solid #ccc; border-right: 1px solid #ccc;*/ }
+.section{ min-height: 1000px; padding: 40px; }
+
+h1 {
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 70px;
+	font-weight: 900;
+	display: inline;
+}
+h2 {
+	font-family: 'Pacifico', Georgia, Times, serif;
+	/*font-family: 'Lobster', Georgia, Times, serif;*/
+	font-size: 70px;
+	line-height: 100px;
+}
+h3 {
+	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-size: 48px;
+	font-weight: 900;
+	display: inline;
+	/*line-height: 100px;*/
+}
+h4 {
+	font-family: 'Pacifico', Georgia, Times, serif;
+	/*font-family: 'Lobster', Georgia, Times, serif;*/
+	font-size: 48px;
+	/*line-height: 100px;*/
+}
+
+highlight_font {
+	font-family: 'Pacifico', Georgia, Times, serif;
+	/*font-family: 'Lobster', Georgia, Times, serif;*/
+	font-size: 115%;
+}
+
+.page1 {
+	font-size: 48px;
+	text-align: center;
+	/*background-color: red;
+	background-image: url(../img/black-noise.png);
+	background-repeat: repeat;
+	background-position: 0 0;*/
+}
+.page1 > .name {
+	position: relative;
+	top: 200px;
+	font-size: 110px;
+	font-weight: 100;
+}
+.page1 > .tag {
+	position: relative;
+	top: 400px;
+}
+.page1 > .tag2 {
+	position: relative;
+	top: 500px;
+	font-size: 60%;
+}
+.section2 {
+	width: 100%;
+	background-color: #e4e4e4;
+	background-image: url(../img/black-noise.png);
+	background-repeat: repeat;
+	background-position: 0 0;
+}
+.page2 {
+	font-weight: 100;
+    font-size: 70px;
+    width: 960px;
+    margin: 0 auto 0 auto;
+}
+
+.section3 {
+	background-image: url(../images/abe.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+.page3 {
+    margin: 0 auto 0 auto;
+    width: 800px;
+}
+highlight_font#title {
+	display: block;
+	margin-bottom: 40px;
+}
+.section4 {
+	background-image: url(../images/tom.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.page4 {
+	margin: 0 auto 0 auto;
+    width: 800px;
+}
+.section5 {
+	background-image: url(../images/cherryblossom.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+.page5 {
+	width: 900px;
+	margin: 0 auto 0 auto;
+
+	font-weight: bold;
+	font-weight: bolder;
+	font-weight: bolder;
+	font-weight: bolder;
+    font-size: 48px;
+}
+
+#main {
+	background-image: url(../img/black-noise.png);
+	background-repeat: repeat;
+	background-position: 0 0;
+}
+
+.venn {
+	background-image: url(../images/venn_2.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	width: 600px;
+	height: 525px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+	font-size: 48px;
+}
+.venn_inner > .politics { float: left; }
+.venn_inner > .dev { float: right; }
+.venn_inner > .jeremy { margin-top: 75px; font-size: 80%; }
+.venn_inner > .social { margin-top: 150px; }
+
+.rotator_body {
+	width: 800px;
+	text-align: left;
+}
+.rotator_nav {
+	font-size: 80%;
+	width: 70%;
+	margin: 0 auto 0 auto;
+	font-weight: 100;
+}
+
+.rotator_nav > #prev3, .rotator_nav > #next3 {
+	padding: 12px 10px 10px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	-webkit-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, .3);
+	-moz-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, .3);
+	box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, .3);
+	background-color: #fff;
+	opacity: 0.4;
+	filter:alpha(opacity=40); /* For IE8 and earlier */
+}
+.rotator_nav > #prev3 {
+	float: left;
+}
+.rotator_nav > #next3 {
+	float: right;
+}
+author {
+	display: block;
+	margin-top: 15px;
+	margin-left: 15%;
+	color: gray;
+	float: right;
+}
+author > aname {
+	font-family: "Nothing You Could Do";
+}
+author > atitle {
+	font-family: 'Cabin';
+	font-size: 40%;
+}
+
+.venn_inner {
+	height: 100px;
+	width: 525px;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	padding-top: 100px;
+}
+
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: underline;
+	color: #000;
+}
+
+.company-logo {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 600px;
+	padding: 10px;
+	border: 5px solid #e4e4e4;
+	margin-top: 20px;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	background: #fff;
+}
+
+.company-logo-small {
+	float: right;
+	width: 180px;
+	/*border: 5px solid #e4e4e4;*/
+	margin-top: 20px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.smaller-projects {
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+
+#arrow-controls a {
+	font-size: 60%;
+	font-family: 'Pacifico', Georgia, Times, serif;
+}
