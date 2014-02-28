@@ -173,7 +173,7 @@
 				        <div class="span12">
 							<h1><highlight_font>Let's Talk!!</highlight_font></h1
 							<ul>
-								<li><a href="http://resume.jeremyvaught.com/Jeremy_Vaughts_Resume.pdf" target="_blank"><span class="ss-icon ss-social">like</span> resume</a></li>
+								<li><a href="Jeremy_Vaughts_Resume.pdf" target="_blank"><span class="ss-icon ss-social">like</span> resume</a></li>
 								<li><a href="mailto:jeremy@jeremyvaught.com?subject=We Need to Talk!!&body=What are you asking, we'll double it!" target="_blank"><span class="ss-icon ss-standard">send</span> email</a></li>
 								<li><span class="ss-icon ss-standard">phone</span> <phone>623.565.9801</phone></li>
 								<li>
@@ -184,7 +184,7 @@
 									<a href="http://web.stagram.com/n/jeremyvaught/" class='ss-icon' target="_blank">instagram</a>
 									<a href="http://pinterest.com/jeremyvaught/" class='ss-icon' target="_blank">pinterest</a>
 									<!--<a href="http://readmill.com/jeremyvaught" class='ss-icon' target="_blank">readmill</a>-->
-									<a href="http://resume.jeremyvaught.com/dropbox" class='ss-icon' target="_blank">dropbox</a>
+									<a href="dropbox" class='ss-icon' target="_blank">dropbox</a>
 									<a href="http://github.com/jeremyvaught" class='ss-icon' target="_blank">octocat</a>
 									
 								</li>
