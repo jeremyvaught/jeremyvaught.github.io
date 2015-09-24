@@ -1,3 +1,6 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/jeremyvaught/vim-cheat-sheet.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/jeremyvaught/tmux-cheat-sheet.git
